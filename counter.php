@@ -3,6 +3,6 @@
   <title></title>
  </head>
  <body>
- <?php echo '1'; ?> 
+ <?php echo '2'; ?> 
  </body>
 </html>
