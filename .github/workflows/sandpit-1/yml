@@ -1,0 +1,5 @@
+name: sandpit 1
+on: [push]
+jobs:
+  setup-os
+    runs-on: ubuntu-22.04
